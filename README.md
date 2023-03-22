@@ -12,5 +12,5 @@ python3 GoFingerprint.py
 It will print the coordinates of the optimal solution
 
 ## Usage
-tf is an 2D array of "Cellule" on length and width of the building 
+tf is an 2D array of "Cellule" on length and width of the building__
 These "cellules" are composed of the signal stregth of different transmitters
